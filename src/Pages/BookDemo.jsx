@@ -78,7 +78,6 @@ const BookDemo = () => {
   const [currentDate, setCurrentDate] = useState(new Date());
   const [selectedDate, setSelectedDate] = useState(null);
   const [selectedTime, setSelectedTime] = useState("");
-  const [name, setName] = useState("");
   const [email, setEmail] = useState("");
   const [description, setDescription] = useState("");
   const [availableSlots, setAvailableSlots] = useState(null);
@@ -138,7 +137,6 @@ const BookDemo = () => {
 
       if (res.data.status === "success" || res.data.message === "Slot booked successfully!") {
         toast.success(res.data.message || "Slot booked successfully!");
-        setName("");
         setEmail("");
         setDescription("");
         setSelectedDate(null);
