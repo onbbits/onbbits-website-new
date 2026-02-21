@@ -43,73 +43,73 @@ import featureImg4 from './Images/card-analytics.webp';
 import featureImg5 from './Images/conversation-feature.webp';
 import featureImg6 from './Images/smart-sequence-feature.webp';
 
-export const setUpPoints=[
-    {
-        video:ConnectVdo,
-        title:"Connect WhatsApp Business API",
-        desc:"Securely connect your WhatsApp Business API to enable automated messaging, real-time notifications, and scalable customer conversations, all managed seamlessly from a single, intuitive dashboard."
-    },
-     {
-        video:AutomationVdo,
-        title:"Set Up Automation & Templates",
-        desc:"Create automated workflows and message templates to handle inquiries, follow-ups, and notifications effortlessly, ensuring consistent communication at every stage of the customer journey."
-    },
-     {
-        video:ConversationVdo,
-        title:"Engage Customers & Close Conversations",
-        desc:"Respond faster, personalize interactions, and manage conversations across teams to build trust, resolve queries, and convert conversations into meaningful business outcomes."
-    },
-     {
-        video:AnalyticsVdo,
-        title:"Track Performance with Analytics",
-        desc:"Monitor conversation metrics, response times, and conversion insights through detailed analytics, helping you optimize workflows and improve overall customer engagement."
-    }
+export const setUpPoints = [
+  {
+    video: ConnectVdo,
+    title: "Connect WhatsApp Business API",
+    desc: "Securely connect your WhatsApp Business API to enable automated messaging, real-time notifications, and scalable customer conversations, all managed seamlessly from a single, intuitive dashboard."
+  },
+  {
+    video: AutomationVdo,
+    title: "Set Up Automation & Templates",
+    desc: "Create automated workflows and message templates to handle inquiries, follow-ups, and notifications effortlessly, ensuring consistent communication at every stage of the customer journey."
+  },
+  {
+    video: ConversationVdo,
+    title: "Engage Customers & Close Conversations",
+    desc: "Respond faster, personalize interactions, and manage conversations across teams to build trust, resolve queries, and convert conversations into meaningful business outcomes."
+  },
+  {
+    video: AnalyticsVdo,
+    title: "Track Performance with Analytics",
+    desc: "Monitor conversation metrics, response times, and conversion insights through detailed analytics, helping you optimize workflows and improve overall customer engagement."
+  }
 ]
 
-export const whyOnbbits=[
-    {
-        icon:whyIcon1,
-        title:"Smart Inbox",
-        desc:"Manage all WhatsApp chats in one shared inbox."
-    },
-      {
-        icon:whyIcon2,
-        title:"Human Automation",
-        desc:"Automate messages that feel natural and personal."
-    },
-      {
-        icon:whyIcon3,
-        title:"Conversion-First",
-        desc:"Turn chats into customers on WhatsApp."
-    },
-      {
-        icon:whyIcon4,
-        title:"Actionable Insights",
-        desc:"Track performance and optimize yours conversations."
-    }
+export const whyOnbbits = [
+  {
+    icon: whyIcon1,
+    title: "Smart Inbox",
+    desc: "Manage all WhatsApp chats in one shared inbox."
+  },
+  {
+    icon: whyIcon2,
+    title: "Human Automation",
+    desc: "Automate messages that feel natural and personal."
+  },
+  {
+    icon: whyIcon3,
+    title: "Conversion-First",
+    desc: "Turn chats into customers on WhatsApp."
+  },
+  {
+    icon: whyIcon4,
+    title: "Actionable Insights",
+    desc: "Track performance and optimize yours conversations."
+  }
 ]
 
-export const ourMission=[
-     {
-              title: "Empowering SMBs & MSMEs",
-              desc: "In underserved geographies (starting with Tier-2/3 India) with plug-and-play WhatsApp automation that drives real growth."
-            },
-            {
-              title: "Evolving into a Global Platform",
-              desc: "Expanding beyond borders to become a global WhatsApp automation platform built for businesses of all sizes."
-            },
-            {
-              title: "Plug-and-Play Setup",
-              desc: "Get started in minutes with ready-to-use WhatsApp automation that requires no technical expertise or long onboarding cycles."
-            },
-            {
-              title: "Building Industry-Specific Solutions",
-              desc: "Delivering industry-specific WhatsApp workflows that solve real business challenges and drive better results."
-            },
-            {
-              title: "Expanding B2B through Partnerships",
-              desc: "Expanding reach through strategic partnerships that help businesses adopt WhatsApp automation faster."
-            }
+export const ourMission = [
+  {
+    title: "Empowering SMBs & MSMEs",
+    desc: "In underserved geographies (starting with Tier-2/3 India) with plug-and-play WhatsApp automation that drives real growth."
+  },
+  {
+    title: "Evolving into a Global Platform",
+    desc: "Expanding beyond borders to become a global WhatsApp automation platform built for businesses of all sizes."
+  },
+  {
+    title: "Plug-and-Play Setup",
+    desc: "Get started in minutes with ready-to-use WhatsApp automation that requires no technical expertise or long onboarding cycles."
+  },
+  {
+    title: "Building Industry-Specific Solutions",
+    desc: "Delivering industry-specific WhatsApp workflows that solve real business challenges and drive better results."
+  },
+  {
+    title: "Expanding B2B through Partnerships",
+    desc: "Expanding reach through strategic partnerships that help businesses adopt WhatsApp automation faster."
+  }
 ]
 
 export const features = [
@@ -131,331 +131,300 @@ export const features = [
   }
 ];
 
-export const team=[
-    {
-        img:sureshImg,
-        name:"Suresh Kerai",
-        designation:"Co-Founder & CTO / The Tech Visionary"
-    },
-     {
-        img:arpitImg,
-        name:"Arpit Patel",
-        designation:"Co-Founder & CEO / The Growth Architect"
-    },
-     {
-        img:nirvishaImg,
-        name:"Nirvisha Soni",
-        designation:"Head of Product / The Builder of Brilliant Systems"
-    },
-     {
-        img:krishnaImg,
-        name:"Krishna Kangad",
-        designation:"Backend Engineer / The Systems Connector"
-    }, {
-        img:priteshImg,
-        name:"Pritesh Kerai",
-        designation:"Full Stack Engineer / The Code Craftsman"
-    },
-     {
-        img:sumitImg,
-        name:"Sumit Chauhan",
-        designation:"Full Stack Engineer / The Innovation Enforcer"
-    },
-     {
-        img:satyamImg,
-        name:"Satyam Trivedi",
-        designation:"Creative Consultant / The Brand Storyteller"
-    }
+export const team = [
+  {
+    img: sureshImg,
+    name: "Suresh Kerai",
+    designation: "Co-Founder & CTO / The Tech Visionary"
+  },
+  {
+    img: arpitImg,
+    name: "Arpit Patel",
+    designation: "Co-Founder & CEO / The Growth Architect"
+  },
+  {
+    img: nirvishaImg,
+    name: "Nirvisha Soni",
+    designation: "Head of Product / The Builder of Brilliant Systems"
+  },
+  {
+    img: krishnaImg,
+    name: "Krishna Kangad",
+    designation: "Backend Engineer / The Systems Connector"
+  }, {
+    img: priteshImg,
+    name: "Pritesh Kerai",
+    designation: "Full Stack Engineer / The Code Craftsman"
+  },
+  {
+    img: sumitImg,
+    name: "Sumit Chauhan",
+    designation: "Full Stack Engineer / The Innovation Enforcer"
+  },
+  {
+    img: satyamImg,
+    name: "Satyam Trivedi",
+    designation: "Creative Consultant / The Brand Storyteller"
+  }
 ]
 
 export const contactCards = [
-    {
-      title: "Sales & Pricing",
-      desc: "Need pricing, demo, or feature details?",
-      btn: "Book a Demo",
-      href:'/book-a-demo'
-    },
-    {
-      title: "Support & Technical Help",
-      desc: "Existing customer support or setup help",
-      btn: "Contact Support",
-      href:'https://help.onbbits.io/'
-    },
-    {
-      title: "Partnerships & Resellers",
-      desc: "Partner, reseller, or integration enquiries",
-      btn: "Partner with us",
-      href:"mailto: info@onbbits.io"
-    },
-    {
-      title: "General Enquiries",
-      desc: "Media, careers, or general questions",
-      btn: "Send a Message",
-      href:"#contact-form"
-    },
-  ];
+  {
+    title: "Sales & Pricing",
+    desc: "Need pricing, demo, or feature details?",
+    btn: "Book a Demo",
+    href: '/book-a-demo'
+  },
+  {
+    title: "Support & Technical Help",
+    desc: "Existing customer support or setup help",
+    btn: "Contact Support",
+    href: 'https://help.onbbits.io/'
+  },
+  {
+    title: "Partnerships & Resellers",
+    desc: "Partner, reseller, or integration enquiries",
+    btn: "Partner with us",
+    href: "mailto: info@onbbits.io"
+  },
+  {
+    title: "General Enquiries",
+    desc: "Media, careers, or general questions",
+    btn: "Send a Message",
+    href: "#contact-form"
+  },
+];
 
-export const gettingStartedFaqs=[
+export const gettingStartedFaqs = [
   {
-    ques:"What is Onbbits and who is it for?",
-    ans:"Onbbits is a WhatsApp automation platform built for businesses that want to manage sales, support, and customer conversations efficiently using WhatsApp."
+    ques: "What is Onbbits and who is it for?",
+    ans: "Onbbits is a WhatsApp automation platform built for businesses that want to manage sales, support, and customer conversations efficiently using WhatsApp."
   },
   {
-    ques:"How quickly can I get started with Onbbits?",
-    ans:"You can get started within minutes by signing up, connecting your WhatsApp number, and accessing the dashboard to begin setting up conversations."
+    ques: "How quickly can I get started with Onbbits?",
+    ans: "You can get started within minutes by signing up, connecting your WhatsApp Business Account (WABA), WhatsApp number, and accessing the dashboard to begin setting up conversations."
   },
   {
-    ques:"Do I need technical knowledge to use Onbbits?",
-    ans:"No, Onbbits is designed for non-technical users with an intuitive interface and no-code tools for automation and setup."
+    ques: "Do I need technical knowledge to use Onbbits?",
+    ans: "No, Onbbits is designed for non-technical users with an intuitive interface and no-code tools for automation and setup."
   },
   {
-    ques:"Is there a free trial available?",
-    ans:"Yes, Onbbits offers a free trial so you can explore features and understand the platform before committing to a plan."
+    ques: "Is there a free trial available?",
+    ans: "Yes, Onbbits offers a free trial so you can explore features and understand the platform before committing to a plan."
   }
 ]
 
-export const APIFaqs=[
+export const APIFaqs = [
   {
-    ques:"What is WhatsApp Business API?",
-    ans:"WhatsApp Business API enables businesses to send and receive messages at scale while maintaining compliance, reliability, and official WhatsApp verification."
+    ques: "What is WhatsApp Business API?",
+    ans: "WhatsApp Business API enables businesses to send and receive messages at scale while maintaining compliance, reliability, and official WhatsApp verification."
   },
   {
-    ques:"Does Onbbits provide WhatsApp Business API access?",
-    ans:"Yes, Onbbits helps you apply for, set up, and manage WhatsApp Business API seamlessly from one platform."
+    ques: "Does Onbbits provide WhatsApp Business API access?",
+    ans: "Yes, Onbbits helps you apply for, set up, and manage WhatsApp Business API seamlessly from one platform."
   },
   {
-    ques:"Can I use my existing WhatsApp number?",
-    ans:"In most cases, yes. Our team will guide you through number verification and eligibility during the onboarding process."
+    ques: "Can I use my existing WhatsApp number?",
+    ans: "In most cases, yes. Our team will guide you through number verification and eligibility during the onboarding process."
   },
   {
-    ques:"Is WhatsApp Business API secure?",
-    ans:"Yes, it follows WhatsApp’s official security standards, including encryption and strict compliance policies."
+    ques: "Is WhatsApp Business API secure?",
+    ans: "Yes, it follows WhatsApp’s official security standards, including encryption and strict compliance policies."
   }
 ]
 
-export const productFeaturesFaqs=[
+export const productFeaturesFaqs = [
   {
-    ques:"What core features does Onbbits offer?",
-    ans:"Onbbits includes a shared team inbox, automation tools, chatbots, lead management, analytics, and integrations."
+    ques: "What core features does Onbbits offer?",
+    ans: "Onbbits includes a shared team inbox, automation tools, chatbots, lead management, analytics, and integrations."
   },
   {
-    ques:"Can multiple team members use one WhatsApp number?",
-    ans:"Yes, multiple agents can manage conversations simultaneously using role-based access and chat assignments."
+    ques: "Can multiple team members use one WhatsApp number?",
+    ans: "Yes, multiple agents can manage conversations simultaneously using role-based access and chat assignments."
   },
   {
-    ques:" Does Onbbits support automated replies?",
-    ans:"Yes, you can set up auto-replies, workflows, and chatbots to handle common queries and follow-ups."
+    ques: " Does Onbbits support automated replies?",
+    ans: "Yes, you can set up auto-replies, workflows, and chatbots to handle common queries and follow-ups."
   },
   {
-    ques:"Can I track conversation performance?",
-    ans:"Onbbits provides analytics to monitor response times, agent performance, and conversation outcomes."
+    ques: "Can I track conversation performance?",
+    ans: "Onbbits provides analytics to monitor performance, and conversation outcomes."
   }
 ]
 
-export const pricingPlansFaqs=[
+export const pricingPlansFaqs = [
   {
-    ques:"How is Onbbits pricing structured?",
-    ans:"Pricing is based on selected features, number of users, and message usage, making it flexible for different business sizes."
+    ques: "How is Onbbits pricing structured?",
+    ans: "Pricing is based on selected features, number of users, and message usage, making it flexible for different business sizes."
   },
   {
-    ques:"Are WhatsApp message charges included?",
-    ans:"WhatsApp conversation charges are billed separately as per Meta’s pricing and are transparently shown."
+    ques: "Are WhatsApp message charges included?",
+    ans: "WhatsApp conversation charges are billed separately as per Meta’s pricing and are transparently shown."
   },
   {
-    ques:"Can I upgrade or downgrade my plan?",
-    ans:"Yes, you can change your plan anytime based on your business needs without service interruption."
-  },
-  {
-    ques:"Do you offer custom plans for enterprises?",
-    ans:"Yes, custom pricing and plans are available for enterprises with advanced requirements."
+    ques: "Do you offer custom plans for enterprises?",
+    ans: "Yes, custom pricing and plans are available for enterprises with advanced requirements."
   }
 ]
 
-export const integrationFaqs=[
+export const templateAutomationFaqs = [
   {
-    ques:"What tools does Onbbits integrate with?",
-    ans:"Onbbits integrates with CRMs, ecommerce platforms, payment gateways, and other business tools."
+    ques: "What are WhatsApp message templates?",
+    ans: "Templates are pre-approved message formats used to send notifications, updates, and outbound messages."
   },
   {
-    ques:"Can I sync customer data with my CRM?",
-    ans:"Yes, customer conversations and lead data can be synced with supported CRM systems."
+    ques: "Does Onbbits help with template approval?",
+    ans: "Yes, we assist in creating and submitting templates for WhatsApp approval."
   },
   {
-    ques:"Are integrations easy to set up?",
-    ans:"Most integrations are plug-and-play, with guided steps and documentation for smooth setup."
+    ques: "Can I automate workflows using Onbbits?",
+    ans: "Yes, you can build automation flows for lead capture, follow-ups, support, and notifications."
   },
   {
-    ques:" Do you offer API access for custom integrations?",
-    ans:"Yes, Onbbits provides APIs for businesses that require custom or advanced integrations."
+    ques: "Are automations customizable?",
+    ans: "All automation flows can be customized to match your business logic and customer journey."
   }
 ]
 
-export const templateAutomationFaqs=[
+export const securityComplianceFaqs = [
   {
-    ques:"What are WhatsApp message templates?",
-    ans:"Templates are pre-approved message formats used to send notifications, updates, and outbound messages."
+    ques: " Is Onbbits compliant with WhatsApp policies?",
+    ans: "Yes, Onbbits follows all WhatsApp Business and Meta compliance guidelines."
   },
   {
-    ques:"Does Onbbits help with template approval?",
-    ans:"Yes, we assist in creating and submitting templates for WhatsApp approval."
-  },
-  {
-    ques:"Can I automate workflows using Onbbits?",
-    ans:"Yes, you can build automation flows for lead capture, follow-ups, support, and notifications."
-  },
-  {
-    ques:"Are automations customizable?",
-    ans:"All automation flows can be customized to match your business logic and customer journey."
+    ques: "How is customer data protected?",
+    ans: "Data is securely stored using industry-standard encryption and access controls."
   }
 ]
 
-export const securityComplianceFaqs=[
+export const supportAccountFaqs = [
   {
-    ques:" Is Onbbits compliant with WhatsApp policies?",
-    ans:"Yes, Onbbits follows all WhatsApp Business and Meta compliance guidelines."
+    ques: "What kind of support does Onbbits provide?",
+    ans: "We offer onboarding assistance, documentation, and responsive customer support."
   },
   {
-    ques:"How is customer data protected?",
-    ans:"Data is securely stored using industry-standard encryption and access controls."
+    ques: "How can I contact the support team?",
+    ans: "Support is available via email, chat, and ticketing based on your plan."
   },
   {
-    ques:"Can I control user access and permissions?",
-    ans:"Yes, role-based permissions allow you to manage what each team member can access."
+    ques: "Do you help with onboarding and setup?",
+    ans: "Yes, guided onboarding and optional demo sessions are available to get you started smoothly."
   },
   {
-    ques:"Does Onbbits support audit logs?",
-    ans:"Yes, activity logs help track actions and ensure transparency across your account."
+    ques: "Can I manage my account settings easily?",
+    ans: "Yes, account settings, billing, users, and preferences can be managed by App Owners."
   }
 ]
 
-export const supportAccountFaqs=[
+export const IndustryData = [
   {
-    ques:"What kind of support does Onbbits provide?",
-    ans:"We offer onboarding assistance, documentation, and responsive customer support."
-  },
-  {
-    ques:"How can I contact the support team?",
-    ans:"Support is available via email, chat, and ticketing based on your plan."
-  },
-  {
-    ques:"Do you help with onboarding and setup?",
-    ans:"Yes, guided onboarding and optional demo sessions are available to get you started smoothly."
-  },
-  {
-    ques:"Can I manage my account settings easily?",
-    ans:"Yes, account settings, billing, users, and preferences can be managed directly from the dashboard."
-  }
-]
-
-export const IndustryData=[
-  {
-    img:sol1,
-    title:"E-commerce & D2C",
-    desc:" Scale sales conversations with automated workflows, cart recovery, order updates, and high-volume customer support.",
+    img: sol1,
+    title: "E-commerce & D2C",
+    desc: " Scale sales conversations with automated workflows, cart recovery, order updates, and high-volume customer support.",
     floatingIcon: cartIcon,
-     floatY: -8,
-    floatDuration: 3.5,
-    link: "/",
-      iconClass: "icon-1",
-    delay: 0.15,
-  },
-   {
-    img:sol2,
-    title:"Restaurants & Cafés",
-    desc:"Centralize customer conversations for orders, reservations, promotions, and support across single or multiple locations.",
-     floatingIcon: cupIcon,
-     floatY: -10,
-    floatDuration: 4,
-    link: "/",
-     iconClass: "icon-2",
-    delay: 0.25,
-  },
-   {
-    img:sol3,
-    title:"EdTech & Coaching",
-    desc:" Manage student communication from lead capture and enrollment to automated updates and ongoing engagement.",
-     floatingIcon: bookIcon,
-     floatY: -6,
-    floatDuration: 3,
-    link: "/",
-     iconClass: "icon-3",
-    delay: 0.35,
-  },
-     {
-    img:sol4,
-    title:"Healthcare",
-    desc:"Enable secure patient communication with appointment scheduling, reminders, follow-ups, and care-related notifications.",
-     floatingIcon: healthIcon,
-     floatY: -8,
-    floatDuration: 3.5,
-    link: "/",
-      iconClass: "icon-1",
-    delay: 0.15,
-  },
-     {
-    img:sol5,
-    title:"Salons & Spas",
-    desc:"Streamline bookings, reminders, promotions, and customer retention across single or multi-location businesses.",
-      floatingIcon: salonIcon,
-     floatY: -10,
-    floatDuration: 4,
-    link: "/",
-     iconClass: "icon-2",
-    delay: 0.25,
-  },
-     {
-    img:sol6,
-    title:"Real Estate",
-    desc:"Capture and nurture property leads with instant listings, automated follow-ups, and faster deal closures seamlessly.",
-     floatingIcon: RealEstateIcon,
-     floatY: -6,
-    floatDuration: 3,
-    link: "/",
-     iconClass: "icon-3",
-    delay: 0.35,
-  },
-   /*{
-    img:sol7,
-    title:"Agencies & Freelancers",
-    desc:"Manage client conversations, automate inquiries, and improve response times across teams and projects.",
-     floatingIcon: agenciesIcon,
-     floatY: -8,
-    floatDuration: 3.5,
-    link: "/",
-      iconClass: "icon-1",
-    delay: 0.15,
-  },*/
-     {
-    img:sol8,
-    title:"Local Services",
-    desc:"Handle service inquiries, scheduling, and follow-ups efficiently with consistent customer communication at scale.",
-      floatingIcon: localServiceIcon,
     floatY: -8,
     floatDuration: 3.5,
     link: "/",
-      iconClass: "icon-1",
+    iconClass: "icon-1",
     delay: 0.15,
   },
-     {
-    img:sol9,
-    title:"Retail Stores",
-    desc:"Drive product discovery, personalized offers, order updates, and post-purchase customer engagement effortlessly.",
-     floatingIcon: retailIcon,
+  {
+    img: sol2,
+    title: "Restaurants & Cafés",
+    desc: "Centralize customer conversations for orders, reservations, promotions, and support across single or multiple locations.",
+    floatingIcon: cupIcon,
     floatY: -10,
     floatDuration: 4,
     link: "/",
-     iconClass: "icon-2",
+    iconClass: "icon-2",
     delay: 0.25,
   },
-    {
-    img:sol10,
-    title:"Wholesale & Distributors",
-    desc:"Manage dealer communication, bulk orders, pricing requests, and repeat purchasing workflows at scale seamlessly.",
-     floatingIcon: WholesaleIcon,
-     floatY: -6,
+  {
+    img: sol3,
+    title: "EdTech & Coaching",
+    desc: " Manage student communication from lead capture and enrollment to automated updates and ongoing engagement.",
+    floatingIcon: bookIcon,
+    floatY: -6,
     floatDuration: 3,
     link: "/",
-     iconClass: "icon-3",
+    iconClass: "icon-3",
+    delay: 0.35,
+  },
+  {
+    img: sol4,
+    title: "Healthcare",
+    desc: "Enable secure patient communication with appointment scheduling, reminders, follow-ups, and care-related notifications.",
+    floatingIcon: healthIcon,
+    floatY: -8,
+    floatDuration: 3.5,
+    link: "/",
+    iconClass: "icon-1",
+    delay: 0.15,
+  },
+  {
+    img: sol5,
+    title: "Salons & Spas",
+    desc: "Streamline bookings, reminders, promotions, and customer retention across single or multi-location businesses.",
+    floatingIcon: salonIcon,
+    floatY: -10,
+    floatDuration: 4,
+    link: "/",
+    iconClass: "icon-2",
+    delay: 0.25,
+  },
+  {
+    img: sol6,
+    title: "Real Estate",
+    desc: "Capture and nurture property leads with instant listings, automated follow-ups, and faster deal closures seamlessly.",
+    floatingIcon: RealEstateIcon,
+    floatY: -6,
+    floatDuration: 3,
+    link: "/",
+    iconClass: "icon-3",
+    delay: 0.35,
+  },
+  /*{
+   img:sol7,
+   title:"Agencies & Freelancers",
+   desc:"Manage client conversations, automate inquiries, and improve response times across teams and projects.",
+    floatingIcon: agenciesIcon,
+    floatY: -8,
+   floatDuration: 3.5,
+   link: "/",
+     iconClass: "icon-1",
+   delay: 0.15,
+ },*/
+  {
+    img: sol8,
+    title: "Local Services",
+    desc: "Handle service inquiries, scheduling, and follow-ups efficiently with consistent customer communication at scale.",
+    floatingIcon: localServiceIcon,
+    floatY: -8,
+    floatDuration: 3.5,
+    link: "/",
+    iconClass: "icon-1",
+    delay: 0.15,
+  },
+  {
+    img: sol9,
+    title: "Retail Stores",
+    desc: "Drive product discovery, personalized offers, order updates, and post-purchase customer engagement effortlessly.",
+    floatingIcon: retailIcon,
+    floatY: -10,
+    floatDuration: 4,
+    link: "/",
+    iconClass: "icon-2",
+    delay: 0.25,
+  },
+  {
+    img: sol10,
+    title: "Wholesale & Distributors",
+    desc: "Manage dealer communication, bulk orders, pricing requests, and repeat purchasing workflows at scale seamlessly.",
+    floatingIcon: WholesaleIcon,
+    floatY: -6,
+    floatDuration: 3,
+    link: "/",
+    iconClass: "icon-3",
     delay: 0.35,
   },
 ]
@@ -476,7 +445,7 @@ export const plans = [
       "Live Chat Dashboard",
     ],
     cta: "Get Started Free",
-    link:'https://app.onbbits.io/register',
+    link: 'https://app.onbbits.io/register',
     highlight: false,
   },
   {
@@ -503,8 +472,8 @@ export const plans = [
       "250 API Requests/Min",
     ],
     cta: "Get Started",
-     link:'https://app.onbbits.io/register',
-   highlight: false
+    link: 'https://app.onbbits.io/register',
+    highlight: false
   },
   {
     name: "Pro",
@@ -526,7 +495,7 @@ export const plans = [
       "Fast Support Assistant",
     ],
     cta: "Get Started",
-     link:'https://app.onbbits.io/register',
+    link: 'https://app.onbbits.io/register',
     highlight: true,
   },
   {
@@ -544,18 +513,18 @@ export const plans = [
       "Custom Chatbot Flow Limits",
       "Custom API Limits",
     ],
-    link:'/contact-us',
+    link: '/contact-us',
     cta: "Contact Us",
     icon: <FiMail />,
     highlight: false,
   },
 ];
 
-export const featuresPgData=[
+export const featuresPgData = [
   {
-    title:"Bulk WhatsApp Broadcasting",
-    img:featureImg1,
-    points:[
+    title: "Bulk WhatsApp Broadcasting",
+    img: featureImg1,
+    points: [
       "Upload contact lists and launch campaigns in minutes.",
       "Personalize each message using dynamic variables.",
       "Schedule and automate broadcasts for peak timing.",
@@ -564,9 +533,9 @@ export const featuresPgData=[
     ]
   },
   {
-    title:"Smart WhatsApp Sequences",
-     img:featureImg6,
-    points:[
+    title: "Smart WhatsApp Sequences",
+    img: featureImg6,
+    points: [
       "Automate follow-ups, reminders, and lead nurturing.",
       "Trigger flows from ad clicks, lead forms, or CRM inputs.",
       "No-code builder for visual chatbot and sequence creation.",
@@ -574,10 +543,10 @@ export const featuresPgData=[
       "Create flows for sales, support, and onboarding."
     ]
   },
-   {
-    title:"Unified Team Inbox",
-     img:featureImg3,
-    points:[
+  {
+    title: "Unified Team Inbox",
+    img: featureImg3,
+    points: [
       "Upload contact lists and launch campaigns in minutes.",
       "Personalize each message using dynamic variables.",
       "Schedule and automate broadcasts for peak timing.",
@@ -585,10 +554,10 @@ export const featuresPgData=[
       "Reach 1,000s of customers while staying compliant."
     ]
   },
-   {
-    title:"Real-Time Performance Dashboard",
-     img:featureImg4,
-    points:[
+  {
+    title: "Real-Time Performance Dashboard",
+    img: featureImg4,
+    points: [
       "Monitor open rates, CTR, and response analytics.",
       "View campaign and sequence-level performance.",
       "Identify top-performing flows with visual insights.",
@@ -596,10 +565,10 @@ export const featuresPgData=[
       "Optimize based on real-time behavioral data."
     ]
   },
-     {
-    title:"Contact & Conversation Management",
-     img:featureImg5,
-    points:[
+  {
+    title: "Contact & Conversation Management",
+    img: featureImg5,
+    points: [
       "Tag, filter, and group contacts by campaign or behavior.",
       "View complete chat history and lead details in one place.",
       "Re-engage with dormant or segmented leads easily.",
@@ -607,10 +576,10 @@ export const featuresPgData=[
       "Build stronger relationships with organized communication."
     ]
   },
-       {
-    title:"AI-Powered Auto-Replies & Personalization",
-     img:featureImg6,
-    points:[
+  {
+    title: "AI-Powered Auto-Replies & Personalization",
+    img: featureImg6,
+    points: [
       "Instantly respond with intelligent, context-aware answers.",
       "Greet and qualify leads even when you're offline.",
       "Customize replies using lead info and behavior.",
@@ -620,21 +589,21 @@ export const featuresPgData=[
   }
 ]
 
-export const testimonials=[
+export const testimonials = [
   {
-    title:"Management Team, Bhuj Swaminarayan Mandir",
-    desc:"Onbbits has transformed the way we communicate with our community. Automated updates, event reminders, and instant responses have helped us stay connected at scale while maintaining a personal touch."
+    title: "Management Team, Bhuj Swaminarayan Mandir",
+    desc: "Onbbits has transformed the way we communicate with our community. Automated updates, event reminders, and instant responses have helped us stay connected at scale while maintaining a personal touch."
   },
-   {
-    title:"Director, Shetiya Telecom",
-    desc:"Customer inquiries used to overwhelm our team daily. With Onbbits’ WhatsApp automation, we now handle product queries, offers, and support seamlessly. Response time has drastically improved."
+  {
+    title: "Director, Shetiya Telecom",
+    desc: "Customer inquiries used to overwhelm our team daily. With Onbbits’ WhatsApp automation, we now handle product queries, offers, and support seamlessly. Response time has drastically improved."
   },
-   {
-    title:"Administration Head, Kalyan Integrated Care & Research Center",
-    desc:"Appointment confirmations, reminders, and patient communication are now fully streamlined through WhatsApp. Onbbits has significantly improved our operational efficiency and patient experience."
+  {
+    title: "Administration Head, Kalyan Integrated Care & Research Center",
+    desc: "Appointment confirmations, reminders, and patient communication are now fully streamlined through WhatsApp. Onbbits has significantly improved our operational efficiency and patient experience."
   },
-   {
-    title:"Founder, Arkay Apps Pvt Ltd",
-    desc:"Onbbits helped us automate lead qualification and client onboarding on WhatsApp. The platform is intuitive, reliable, and scalable for growing tech businesses."
+  {
+    title: "Founder, Arkay Apps Pvt Ltd",
+    desc: "Onbbits helped us automate lead qualification and client onboarding on WhatsApp. The platform is intuitive, reliable, and scalable for growing tech businesses."
   }
 ]
